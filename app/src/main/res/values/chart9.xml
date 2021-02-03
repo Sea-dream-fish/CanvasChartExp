@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Chart9">
+        <!-- 字体设置大小、颜色-->
+        <attr name="myTextColor" format="color" />
+        <attr name="myTextSize" format="dimension" />
+        <!--  坐标点设置大小颜色-->
+        <attr name="myPlaceSize" format="color" />
+        <attr name="myPlaceColor" format="dimension" />
+
+    </declare-styleable>
+
+
+</resources>
